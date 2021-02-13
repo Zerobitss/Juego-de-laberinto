@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1593460531 source:c:\users\zerobits\desktop\codigo\juegolaberinto\main.cpp
+	<iostream>
+	"Player.h"
+	"MapCell.h"
+	"GameMap.h"
+
+1593454985 source:c:\users\zerobits\desktop\codigo\juegolaberinto\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1593454437 c:\users\zerobits\desktop\codigo\juegolaberinto\include\player.h
+
+1593449465 c:\users\zerobits\desktop\codigo\juegolaberinto\include\mapcell.h
+
+1593455263 source:c:\users\zerobits\desktop\codigo\juegolaberinto\src\mapcell.cpp
+	"MapCell.h"
+
+1593460477 c:\users\zerobits\desktop\codigo\juegolaberinto\include\gamemap.h
+	"MapCell.h"
+
+1593460737 source:c:\users\zerobits\desktop\codigo\juegolaberinto\src\gamemap.cpp
+	"GameMap.h"
+	<iostream>
+	<fstream>
+
