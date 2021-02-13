@@ -1,1 +1,1 @@
-# Juego-de-laberinto
+# Juego de laberinto en C++
